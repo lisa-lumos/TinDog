@@ -13,6 +13,6 @@ Landing Page - TinDog - Meet new and interesting dogs nearby.
   </p>
 <hr>
 
-<h2>📍 Access the Site <a href="https://tindog-pets.netlify.app/">here!</a></h2>
+<h2>📍 Access the Site <a href="https://lisajia307.github.io/TinDog/">here!</a></h2>
 
 <hr>
